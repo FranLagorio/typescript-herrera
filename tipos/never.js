@@ -1,6 +1,0 @@
-"use strict";
-(() => {
-    const error = (msg) => {
-        throw new Error(msg);
-    };
-})();
